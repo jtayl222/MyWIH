@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="8.10.1">
-<file name="/home/user/MyWIH2/myworkitem/src/test/java/com/redhat/MyWorkItemWorkItemHandlerTest.java">
-</file>
-<file name="/home/user/MyWIH2/myworkitem/src/test/java/com/redhat/MyWorkItemWorkitemIntegrationTest.java">
-</file>
-</checkstyle>
